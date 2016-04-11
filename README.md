@@ -1,5 +1,3 @@
-# Wild Gunman
+# Block Shooter
 
-Just your typical cowboy shootout simulator, based on the 1984 game by the same name by Nintendo
-
-Sprite textures originally by Nintendo, extracted by http://mrpr1993.deviantart.com/
+Click on boxes, rack up kills.  Based on the 1984 game "Wild Gunman" by Nintendo
