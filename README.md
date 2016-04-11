@@ -1,3 +1,3 @@
-# Wild Gunman
+# Block Shooter
 
-Just your typical cowboy shootout simulator, based on the 1984 game by the same name by Nintendo
+Click on boxes, rack up kills.  Inspired by the 1984 game "Wild Gunman" by Nintendo
